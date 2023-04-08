@@ -1,4 +1,4 @@
-# |    GSV_GUI CALCULATOR V1.0 🖩  |
+# |    GSV_GUI CALCULATOR V1.0 🖩 
 
 [#ENG]:
    - This is the classic calculator app written in the <ins>Java</ins> Language with the help of <ins>JAVA AWT</ins>
